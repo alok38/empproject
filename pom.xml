@@ -58,7 +58,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>employee-docker</finalName>
+		<finalName>employee-docker2</finalName>
 	</build>
 
 </project>
